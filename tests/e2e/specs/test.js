@@ -1,13 +1,7 @@
 // For authoring Nightwatch tests, see
 // http://nightwatchjs.org/guide#usage
-// const chromedriver = require('chromedriver');
 
 module.exports = {
-  // selenium: {
-  //   cli_args: {
-  //     'webdriver.chrome.driver': chromedriver.path
-  //   }
-  // },
   desiredCapabilities: {
     browserName: "chrome",
     chromeOptions: {
