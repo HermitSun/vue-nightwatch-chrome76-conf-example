@@ -1,0 +1,14 @@
+language: node_js
+node_js:
+  - "10"
+addons:
+  chrome: stable
+install:
+  - npm install
+script:
+  - npm run test:unit
+  - npm run test:e2e
+
+branches:
+  only:
+    - master
