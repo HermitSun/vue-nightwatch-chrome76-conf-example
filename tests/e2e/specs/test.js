@@ -2,12 +2,6 @@
 // http://nightwatchjs.org/guide#usage
 
 module.exports = {
-  desiredCapabilities: {
-    browserName: "chrome",
-    chromeOptions: {
-      w3c: false
-    }
-  },
   'default e2e tests': browser => {
     browser
       .url(process.env.VUE_DEV_SERVER_URL)
