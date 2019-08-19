@@ -1,4 +1,4 @@
-# vue-nightwatch-chrome76-conf-example
+# vue-nightwatch-chrome76-conf-example [![Build Status](https://travis-ci.org/HermitSun/vue-nightwatch-chrome76-conf-example.svg?branch=master)](https://travis-ci.org/HermitSun/vue-nightwatch-chrome76-conf-example)
 
 ## Project setup
 ```
