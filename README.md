@@ -1,4 +1,4 @@
-# chrome-e2e-test
+# vue-nightwatch-chrome76-conf-example
 
 ## Project setup
 ```
